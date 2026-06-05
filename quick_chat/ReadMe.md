@@ -2,7 +2,6 @@
   <img src="https://img.icons8.com/color/96/000000/chat--v1.png" alt="Quick Chat Logo">
   <h1>✨ Quick Chat ✨</h1>
   <p><b>A modern, feature-rich, and real-time web page and mobile application built with Flask.</b></p>
-  <p>🌐 <b>Live Web App:</b> <a href="http://sdck.pythonanywhere.com/login">sdck.pythonanywhere.com/login</a></p>
 
   <!-- Badges -->
   <p>
@@ -12,6 +11,11 @@
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="License">
     <img src="https://img.shields.io/badge/PWA-Ready-purple.svg?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA Ready">
   </p>
+
+  <br>
+
+  **[🌐 Open Web Version](http://sdck.pythonanywhere.com/login)** • **[📱 Download Android App](https://drive.google.com/file/d/15Pah1rSUuOBW4G9yYrRDu521mPSakdV0/view?usp=sharing)**
+
 </div>
 
 <hr>
